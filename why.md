@@ -25,3 +25,5 @@ Thus, this project began when I realized that most organizations only have the c
 XN-Twist's primary objective is to solve the problem described above. As such, I summarize our mission by saying:
 
 > The mission of the XN-Twist project is to provide individuals and organizations with a means of pro-actively identifying and monitoring internationalized domain squats.
+
+Sound like something you're interested in? To help us out, it literal takes less than 60 seconds! Find out [how](how).
