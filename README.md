@@ -1,3 +1,3 @@
 # XN-Twist Website
 
-Repository for the XN-Twist website: [about.xntwist.tk](http://about.xntwist.tk).
+Repository for the XN-Twist website: [about.xntwist.hightower.space](http://about.xntwist.hightower.space).
